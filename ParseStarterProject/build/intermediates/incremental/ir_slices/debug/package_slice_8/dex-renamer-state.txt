@@ -1,0 +1,4 @@
+#Wed Sep 04 01:15:27 CEST 2019
+base.0=/Users/marta/AndroidStudioProjects/twitter/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
